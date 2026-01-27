@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: srs-voucher-module-llm-gpu
+  description: SRS Voucher Module for LLM and GPU
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: Lintasarta/srs-voucher_module_llm_gpu-v1.0
+    # PERHATIKAN INDENTASI: Baris di bawah if harus sejajar dengan github.com...
+spec:
+  type: service
+  lifecycle: production
+  owner: user:default/afi
