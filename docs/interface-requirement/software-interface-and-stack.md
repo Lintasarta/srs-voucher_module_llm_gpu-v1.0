@@ -1,0 +1,2 @@
+# Software Interfaces and Stack
+The Voucher Module will be integrated into the Service Portal AI, accessible via the "Menu Manage Superadmin > Manage Voucher" for Superadmins. The user interface will feature input forms for creating vouchers (e.g., for voucher name, claim period, description, duration, quota, prefix code, LLM coins/credit amount), and a dedicated "Vouchers" page for users to input and claim voucher codes. Management interfaces will display lists of vouchers and allow for viewing status, history, and downloading data.
