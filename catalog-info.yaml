@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: srs-voucher-module-llm-gpu
   description: SRS Voucher Module for LLM and GPU
+  tags: ["srs"]
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Lintasarta/srs-voucher_module_llm_gpu-v1.0
